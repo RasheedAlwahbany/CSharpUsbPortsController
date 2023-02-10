@@ -1,0 +1,9 @@
+c:\users\ragt\documents\visual studio 2015\Projects\USB_PORTS_CONTROLLER\USB_PORTS_CONTROLLER\bin\Debug\USB_PORTS_CONTROLLER.exe.config
+c:\users\ragt\documents\visual studio 2015\Projects\USB_PORTS_CONTROLLER\USB_PORTS_CONTROLLER\bin\Debug\USB_PORTS_CONTROLLER.exe
+c:\users\ragt\documents\visual studio 2015\Projects\USB_PORTS_CONTROLLER\USB_PORTS_CONTROLLER\bin\Debug\USB_PORTS_CONTROLLER.pdb
+c:\users\ragt\documents\visual studio 2015\Projects\USB_PORTS_CONTROLLER\USB_PORTS_CONTROLLER\obj\Debug\USB_PORTS_CONTROLLER.csprojResolveAssemblyReference.cache
+c:\users\ragt\documents\visual studio 2015\Projects\USB_PORTS_CONTROLLER\USB_PORTS_CONTROLLER\obj\Debug\USB_PORTS_CONTROLLER.Form1.resources
+c:\users\ragt\documents\visual studio 2015\Projects\USB_PORTS_CONTROLLER\USB_PORTS_CONTROLLER\obj\Debug\USB_PORTS_CONTROLLER.Properties.Resources.resources
+c:\users\ragt\documents\visual studio 2015\Projects\USB_PORTS_CONTROLLER\USB_PORTS_CONTROLLER\obj\Debug\USB_PORTS_CONTROLLER.csproj.GenerateResource.Cache
+c:\users\ragt\documents\visual studio 2015\Projects\USB_PORTS_CONTROLLER\USB_PORTS_CONTROLLER\obj\Debug\USB_PORTS_CONTROLLER.exe
+c:\users\ragt\documents\visual studio 2015\Projects\USB_PORTS_CONTROLLER\USB_PORTS_CONTROLLER\obj\Debug\USB_PORTS_CONTROLLER.pdb
