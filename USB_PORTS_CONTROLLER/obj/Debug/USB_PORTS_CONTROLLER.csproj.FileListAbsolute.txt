@@ -7,3 +7,6 @@ c:\users\ragt\documents\visual studio 2015\Projects\USB_PORTS_CONTROLLER\USB_POR
 c:\users\ragt\documents\visual studio 2015\Projects\USB_PORTS_CONTROLLER\USB_PORTS_CONTROLLER\obj\Debug\USB_PORTS_CONTROLLER.csproj.GenerateResource.Cache
 c:\users\ragt\documents\visual studio 2015\Projects\USB_PORTS_CONTROLLER\USB_PORTS_CONTROLLER\obj\Debug\USB_PORTS_CONTROLLER.exe
 c:\users\ragt\documents\visual studio 2015\Projects\USB_PORTS_CONTROLLER\USB_PORTS_CONTROLLER\obj\Debug\USB_PORTS_CONTROLLER.pdb
+C:\Users\rashe\Music\CSharpUsbPortsController\USB_PORTS_CONTROLLER\bin\Debug\USB_PORTS_CONTROLLER.exe.config
+C:\Users\rashe\Music\CSharpUsbPortsController\USB_PORTS_CONTROLLER\obj\Debug\USB_PORTS_CONTROLLER.exe
+C:\Users\rashe\Music\CSharpUsbPortsController\USB_PORTS_CONTROLLER\obj\Debug\USB_PORTS_CONTROLLER.pdb
